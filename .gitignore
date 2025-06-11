@@ -1,6 +1,9 @@
 #Ignore Slurm output files
 slurm-*.out
 
+#Ignore macos system files
+*.DS_Store
+
 #Ignore log files
 *.log
 
